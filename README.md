@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 📊 Data analytics, 💹 finance, and 🤖 machine learning projects.<br><br>Fun fact: ⚡ I combine finance with machine learning to empower smarter investments.
 
 
