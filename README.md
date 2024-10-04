@@ -1,5 +1,4 @@
-# 💫 About Me:
-Here’s the updated version with emojis:<br><br>📊 Data analytics, 💹 finance, and 🤖 machine learning projects.<br>Fun fact: ⚡ I combine finance with machine learning to empower smarter investments.
+📊 Data analytics, 💹 finance, and 🤖 machine learning projects.<br>Fun fact: ⚡ I combine finance with machine learning to empower smarter investments.
 
 
 ## 🌐 Socials:
