@@ -1,4 +1,3 @@
-# 💻 About Me:
 📊 Data analytics, 💹 finance, and 🤖 machine learning projects.
 
 
