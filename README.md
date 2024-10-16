@@ -1,4 +1,4 @@
-# 📊 Data analytics, 💹 finance, and 🤖 machine learning projects.
+# 📊 Data Analytics, 💹 Finance, and 🤖 Machine Learning
 
 
 ## 🌐 Socials:
