@@ -1,23 +1,69 @@
-# 📊 Data Analytics, 💻 Machine Learning, and 🤖 Deep Learning
+<img src="assets/banner.svg" alt="Louis Miguel Bernal — Quant & AI Engineer. Production ML pipelines, NLP-driven trading models, institutional analytics." width="100%" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LouisMiguelBernal&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://ph.linkedin.com/in/louisbernal"><samp>LINKEDIN</samp></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/DataMigzz"><samp>X / TWITTER</samp></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/LouisMiguelBernal?tab=repositories"><samp>REPOSITORIES</samp></a>
+</p>
+
+<br>
+
+#### <samp>01 — PROFILE</samp>
+
+Quantitative data and AI systems engineer working across production machine learning, NLP-driven trading models, and institutional analytics. Currently a Quantitative Data & Systems Engineer at FloatInfinity (Sydney), and a Computer Science student specializing in Intelligent Systems at De La Salle University — Dasmariñas.
+
+I build systems that are transparent, validated, and made to survive contact with real data — walk-forward-tested models, leak-free pipelines, and dashboards that answer questions rather than decorate them.
+
+<br>
+
+#### <samp>02 — SELECTED WORK</samp>
+
+| Project | Domain | Summary |
+|:--|:--|:--|
+| **[DeepS&P](https://github.com/LouisMiguelBernal/DeepSP)** · [live](https://deepsp500.streamlit.app/) | Deep learning · Quant finance | Three-layer LSTM trained on 90+ years of S&P 500 data, with Monte Carlo simulation of up to 2,000 stochastic price paths. |
+| **[QuantMaven](https://github.com/LouisMiguelBernal/QuantMaven)** · [live](https://quantmaven.streamlit.app/) | Market research platform | Research platform for stocks, forex, and crypto — fundamentals, candlestick charting, technical indicators, and algorithmic insights. |
+| **[VisorAI](https://github.com/LouisMiguelBernal/VisorAI)** | Computer vision · Mobile | YOLOv11 mobile app detecting LTO road markings in real time, with auditory driver feedback. mAP@0.5 of 0.87 at ~120 ms per frame. |
+| **[GiftxAI](https://github.com/LouisMiguelBernal/GiftxAI)** · [live](https://giftxai.streamlit.app/) | LLM · RAG | Retrieval-augmented recommender — FAISS vector store, a triple-validation grounding chain, and a Groq Llama 3.3 backbone. |
+| **[XGE](https://github.com/LouisMiguelBernal/XGE)** · [live](https://xge-ai.streamlit.app/) | ML · Explainability | End-to-end XGBoost pipeline predicting vehicle CO2 emissions, with SHAP explainability and an interactive dashboard. |
+| **[Signa](https://github.com/LouisMiguelBernal/Signa)** | Computer vision | Real-time traffic-sign detection from live camera input — detect, classify, and alert while driving. |
+
+<br>
+
+#### <samp>03 — STACK</samp>
+
+| Area | Tools |
+|:--|:--|
+| **Languages** | Python · SQL · TypeScript · C++ |
+| **Machine learning** | TensorFlow · PyTorch · scikit-learn · XGBoost · Optuna · YOLO |
+| **LLM & NLP** | LangChain · FAISS · Sentence Transformers · Groq |
+| **Quant & statistics** | pandas · NumPy · statsmodels · Monte Carlo methods |
+| **Data & cloud** | PostgreSQL · MySQL · SQLite · Azure ETL |
+| **Interfaces** | Streamlit · Next.js · Power BI · Tableau |
+
+<br>
+
+#### <samp>04 — SELECTED ARCHIVE</samp>
+
+| Machine learning | Analytics & BI | Markets & NLP |
+|:--|:--|:--|
+| [Census Income](https://github.com/LouisMiguelBernal/Census-Income) | [House Prices — Power BI + PostgreSQL](https://github.com/LouisMiguelBernal/House-Price-Analysis-Dashboard-with-Power-BI-and-PostgreSQL) | [BTC vs. Economic Indicators](https://github.com/LouisMiguelBernal/BTC-Econimic-Indicators) |
+| [Customer Churn](https://github.com/LouisMiguelBernal/Customer-Churn-ML) | [FDIC Failed Banks](https://github.com/LouisMiguelBernal/FDIC-Failed-Banks-Analysis) | [Economic Indicators Forecast](https://github.com/LouisMiguelBernal/Economic-Indicators-Stock-Forecast) |
+| [Medical Insurance](https://github.com/LouisMiguelBernal/Medical-Insurance-ML) | [AirBNB](https://github.com/LouisMiguelBernal/AirBNB) | [Google Stock Analysis](https://github.com/LouisMiguelBernal/Google-Stock-Analysis) |
+| [California Housing](https://github.com/LouisMiguelBernal/California-Housing-Prediction) | [Starbucks Locations](https://github.com/LouisMiguelBernal/Starbucks-Location-Analysis) | [Top 3 Stock Indexes](https://github.com/LouisMiguelBernal/Top-3-Stock-Indexes-Analysis) |
+| [Car Price Prediction](https://github.com/LouisMiguelBernal/Car-Price-Prediction) | [Data Breaches](https://github.com/LouisMiguelBernal/Data-Breach-Analysis) | [Twitter Sentiment](https://github.com/LouisMiguelBernal/Twitter-Sentiment-Analysis) |
+| [Face Recognition — SVM](https://github.com/LouisMiguelBernal/Face-Recognition-SVM) | [Global EV Adoption](https://github.com/LouisMiguelBernal/Global-Electric-Vehicle-PostgreSQL-Python-Analysis) | [NLP Emotion](https://github.com/LouisMiguelBernal/NLP-Project) |
+
+<br>
+
+#### <samp>05 — NOW</samp>
+
+- **FloatInfinity — Sydney** · Quantitative Data & Systems Engineer. NLP-based multi-factor models and Azure ETL pipelines with real-time API ingestion.
+- **De La Salle University — Dasmariñas** · B.S. Computer Science, Intelligent Systems.
+
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LouisMiguelBernal&icon=0&color=0)](https://visitcount.itsvg.in)
-# 💻 Tech Stack:
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/xgboost-3EBB8A.svg?style=for-the-badge&logo=xgboost&logoColor=white)
-![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-4CAF50.svg?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/matplotlib-003b57.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-30A9DE.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://ph.linkedin.com/in/louisbernal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DataMigzz) 
+<p align="center"><sub><samp>LOUIS MIGUEL BERNAL &nbsp;·&nbsp; MANILA / SYDNEY &nbsp;·&nbsp; MMXXVI</samp></sub></p>
