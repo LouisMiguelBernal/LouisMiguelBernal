@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Louis Miguel Bernal — Quant & AI Engineer. Production ML pipelines, NLP-driven trading models, institutional analytics." width="100%" />
+<a href="https://louisbernal.dev"><img src="assets/banner.svg" alt="Louis Miguel Bernal — Quant & AI Engineer. Production ML pipelines, NLP-driven trading models, institutional analytics." width="100%" /></a>
 
 <p align="center">
   <a href="https://ph.linkedin.com/in/louisbernal"><samp>LINKEDIN</samp></a>
@@ -10,15 +10,15 @@
 
 <br>
 
-#### <samp>01 — PROFILE</samp>
+#### <samp>PROFILE</samp>
 
-Quantitative data and AI systems engineer working across production machine learning, NLP-driven trading models, and institutional analytics. Currently a Quantitative Data & Systems Engineer at FloatInfinity (Sydney), and a Computer Science student specializing in Intelligent Systems at De La Salle University — Dasmariñas.
+Data engineer working across production machine learning, NLP-driven trading models, and institutional analytics. Previously at FloatInfinity (Sydney), and a Computer Science student specializing in Intelligent Systems at De La Salle University — Dasmariñas.
 
 I build systems that are transparent, validated, and made to survive contact with real data — walk-forward-tested models, leak-free pipelines, and dashboards that answer questions rather than decorate them.
 
 <br>
 
-#### <samp>02 — SELECTED WORK</samp>
+#### <samp>SELECTED WORK</samp>
 
 | Project | Domain | Summary |
 |:--|:--|:--|
@@ -31,7 +31,7 @@ I build systems that are transparent, validated, and made to survive contact wit
 
 <br>
 
-#### <samp>03 — STACK</samp>
+#### <samp>STACK</samp>
 
 | Area | Tools |
 |:--|:--|
@@ -44,7 +44,7 @@ I build systems that are transparent, validated, and made to survive contact wit
 
 <br>
 
-#### <samp>04 — SELECTED ARCHIVE</samp>
+#### <samp>SELECTED ARCHIVE</samp>
 
 | Machine learning | Analytics & BI | Markets & NLP |
 |:--|:--|:--|
@@ -57,9 +57,9 @@ I build systems that are transparent, validated, and made to survive contact wit
 
 <br>
 
-#### <samp>05 — NOW</samp>
+#### <samp>BACKGROUND</samp>
 
-- **FloatInfinity — Sydney** · Quantitative Data & Systems Engineer. NLP-based multi-factor models and Azure ETL pipelines with real-time API ingestion.
+- **FloatInfinity — Sydney** · Data Engineer (previous). NLP-based multi-factor models and Azure ETL pipelines with real-time API ingestion.
 - **De La Salle University — Dasmariñas** · B.S. Computer Science, Intelligent Systems.
 
 <br>

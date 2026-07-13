@@ -45,14 +45,17 @@
   <line x1="64" y1="296" x2="1136" y2="296" stroke="#262626"/>
   <g font-family="'Cascadia Code','SF Mono','JetBrains Mono',Consolas,Menlo,monospace" font-size="10" letter-spacing="2.5" fill="#737373">
     <text x="64" y="330">FOCUS</text>
-    <text x="475" y="330">NOW</text>
-    <text x="830" y="330">EDUCATION</text>
+    <text x="370" y="330">PREVIOUSLY</text>
+    <text x="690" y="330">EDUCATION</text>
+    <text x="1000" y="330">WEB</text>
   </g>
   <g font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#D4D4D4">
     <text x="64" y="356">Quantitative &amp; AI systems</text>
-    <text x="475" y="356">FloatInfinity — Sydney</text>
-    <text x="830" y="356">B.S. Computer Science · DLSU-D</text>
+    <text x="370" y="356">FloatInfinity — Sydney</text>
+    <text x="690" y="356">B.S. Computer Science · DLSU-D</text>
+    <text x="1000" y="356">louisbernal.dev</text>
   </g>
-  <line x1="445" y1="318" x2="445" y2="360" stroke="#1F1F1F"/>
-  <line x1="800" y1="318" x2="800" y2="360" stroke="#1F1F1F"/>
+  <line x1="340" y1="318" x2="340" y2="360" stroke="#1F1F1F"/>
+  <line x1="660" y1="318" x2="660" y2="360" stroke="#1F1F1F"/>
+  <line x1="970" y1="318" x2="970" y2="360" stroke="#1F1F1F"/>
 </svg>
