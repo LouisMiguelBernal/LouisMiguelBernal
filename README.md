@@ -1,4 +1,4 @@
-<a href="https://louisbernal.dev"><img src="assets/banner.svg" alt="Louis Miguel Bernal — Quant & AI Engineer. Production ML pipelines, NLP-driven trading models, institutional analytics." width="100%" /></a>
+<a href="https://louisbernal.dev"><img src="assets/banner.gif" alt="Louis Miguel Bernal — Quant & AI Engineer. Production ML pipelines, NLP-driven trading models, institutional analytics." width="100%" /></a>
 
 <p align="center">
   <a href="https://ph.linkedin.com/in/louisbernal"><samp>LINKEDIN</samp></a>
