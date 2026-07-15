@@ -8,6 +8,8 @@
   <a href="https://github.com/LouisMiguelBernal?tab=repositories"><samp>REPOSITORIES</samp></a>
 </p>
 
+<p align="center"><img src="assets/focus.svg" alt="Focus areas: Machine Learning · Data Engineering · Quant Systems · NLP / LLMs" /></p>
+
 <br>
 
 #### <samp>PROFILE</samp>
@@ -31,22 +33,9 @@ I build systems that are transparent, validated, and made to survive contact wit
 
 <br>
 
-#### <samp>CONTRIBUTIONS</samp>
-
-<p align="center"><img src="assets/contrib.svg" alt="Isometric 3D view of the past year of GitHub contributions" width="100%" /></p>
-
-<br>
-
 #### <samp>STACK</samp>
 
-| Area | Tools |
-|:--|:--|
-| **AI / Machine Learning** | PyTorch · TensorFlow · Scikit-learn · LangChain · Ollama · OpenCV · Hugging Face · FAISS · Groq |
-| **Modeling & methods** | LSTM · XGBoost · LightGBM · CatBoost · K-Means · PCA · t-SNE · UMAP · Monte Carlo |
-| **Data & Backend** | Python · SQL · FastAPI · PostgreSQL · MongoDB · Redis · Pandas · NumPy · Azure ETL |
-| **Analytics & Viz** | Power BI · Tableau · Plotly · Matplotlib · Seaborn · Excel |
-| **Frontend** | React · Next.js · TypeScript · Tailwind CSS · Framer Motion · React Native |
-| **DevOps & Tooling** | Git · GitHub · Docker · Vercel · MLflow · Jupyter · Streamlit |
+<p align="center"><img src="assets/stack.svg" alt="Technical stack by domain — AI/ML, modeling & methods, data & backend, analytics, frontend, DevOps" width="100%" /></p>
 
 <br>
 
