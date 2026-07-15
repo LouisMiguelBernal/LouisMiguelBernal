@@ -35,12 +35,25 @@ I build systems that are transparent, validated, and made to survive contact wit
 
 | Area | Tools |
 |:--|:--|
-| **Languages** | Python · SQL · TypeScript · C++ |
-| **Machine learning** | TensorFlow · PyTorch · scikit-learn · XGBoost · Optuna · YOLO |
-| **LLM & NLP** | LangChain · FAISS · Sentence Transformers · Groq |
-| **Quant & statistics** | pandas · NumPy · statsmodels · Monte Carlo methods |
-| **Data & cloud** | PostgreSQL · MySQL · SQLite · Azure ETL |
-| **Interfaces** | Streamlit · Next.js · Power BI · Tableau |
+| **AI / Machine Learning** | PyTorch · TensorFlow · Scikit-learn · LangChain · Ollama · OpenCV · Hugging Face · FAISS · Groq |
+| **Modeling & methods** | LSTM · XGBoost · LightGBM · CatBoost · K-Means · PCA · t-SNE · UMAP · Monte Carlo |
+| **Data & Backend** | Python · SQL · FastAPI · PostgreSQL · MongoDB · Redis · Pandas · NumPy · Azure ETL |
+| **Analytics & Viz** | Power BI · Tableau · Plotly · Matplotlib · Seaborn · Excel |
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS · Framer Motion · React Native |
+| **DevOps & Tooling** | Git · GitHub · Docker · Vercel · MLflow · Jupyter · Streamlit |
+
+<br>
+
+#### <samp>CERTIFICATIONS</samp>
+
+| Certification | Issuer | Credential |
+|:--|:--|:--|
+| **Deep Learning Specialization** | DeepLearning.AI · 2025 | [verify](https://coursera.org/verify/5DCEBTE0WLYU) |
+| Neural Networks and Deep Learning | DeepLearning.AI | [verify](https://coursera.org/verify/3520567IBKAP) |
+| Improving Deep Neural Networks | DeepLearning.AI | — |
+| Structuring Machine Learning Projects | DeepLearning.AI | [verify](https://coursera.org/verify/PW7B3FJBJ8L5) |
+| Convolutional Neural Networks | DeepLearning.AI | [verify](https://coursera.org/verify/VOPC3983POHV) |
+| Sequence Models | DeepLearning.AI | [verify](https://coursera.org/verify/AGSTIN6MFW6H) |
 
 <br>
 
