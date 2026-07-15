@@ -31,6 +31,12 @@ I build systems that are transparent, validated, and made to survive contact wit
 
 <br>
 
+#### <samp>CONTRIBUTIONS</samp>
+
+<p align="center"><img src="assets/contrib.svg" alt="Isometric 3D view of the past year of GitHub contributions" width="100%" /></p>
+
+<br>
+
 #### <samp>STACK</samp>
 
 | Area | Tools |
