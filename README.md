@@ -1,6 +1,8 @@
-<a href="https://louisbernal.dev"><img src="assets/banner.gif" alt="Louis Miguel Bernal — Quant & AI Engineer. Production ML pipelines, NLP-driven trading models, institutional analytics." width="100%" /></a>
+<a href="https://1nonly.me"><img src="assets/banner.gif" alt="Louis Miguel Bernal — Data Engineer. Market-data pipelines, multi-factor models, production ML systems." width="100%" /></a>
 
 <p align="center">
+  <a href="https://1nonly.me"><samp>PORTFOLIO</samp></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://ph.linkedin.com/in/louisbernal"><samp>LINKEDIN</samp></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://x.com/DataMigzz"><samp>X / TWITTER</samp></a>
@@ -17,6 +19,12 @@
 Data engineer working across production machine learning, NLP-driven trading models, and institutional analytics. Previously at FloatInfinity (Sydney), and a Computer Science student specializing in Intelligent Systems at De La Salle University — Dasmariñas.
 
 I build systems that are transparent, validated, and made to survive contact with real data — walk-forward-tested models, leak-free pipelines, and dashboards that answer questions rather than decorate them.
+
+<br>
+
+#### <samp>IMPACT</samp>
+
+<p align="center"><img src="assets/impact.svg" alt="Impact to date — 72% directional accuracy, 1.8 backtested Sharpe, 1M+ records processed, 3x query performance" width="100%" /></p>
 
 <br>
 
@@ -67,7 +75,7 @@ I build systems that are transparent, validated, and made to survive contact wit
 
 #### <samp>BACKGROUND</samp>
 
-- **FloatInfinity — Sydney** · Data Engineer (previous). NLP-based multi-factor models and Azure ETL pipelines with real-time API ingestion.
+- **Float Infinity — Sydney** · Data Engineer. NLP-based multi-factor models and Azure ETL pipelines with real-time API ingestion.
 - **De La Salle University — Dasmariñas** · B.S. Computer Science, Intelligent Systems.
 
 <br>
