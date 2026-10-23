@@ -1,4 +1,4 @@
-<a href="https://1nonly.me"><img src="assets/banner.png" alt="Louis Miguel Bernal — AI Data Engineer · Full-Stack · Quant. Data platforms, LLM services and quant systems, shipped end to end." width="100%" /></a>
+<a href="https://1nonly.me"><img src="assets/hero.svg" alt="Louis Miguel Bernal — AI Data Engineer · Full-Stack · Quant. Built to scale, run in production." width="100%" /></a>
 
 <p align="center">
   <a href="https://1nonly.me"><samp>PORTFOLIO</samp></a>
@@ -12,11 +12,11 @@
   <a href="mailto:miguellouis.work@gmail.com"><samp>EMAIL</samp></a>
 </p>
 
-<br>
+<img src="assets/about.svg" alt="About me — AI data engineer across warehouse pipelines, LLM services and quant models; shipped for teams in New York, Maryland and Sydney, working remotely from Manila." width="100%" />
 
-#### <samp>EXPERIENCE</samp>
+<img src="assets/div-experience.svg" alt="01 · Experience" width="100%" />
 
-<a href="https://1nonly.me/#work"><img src="assets/experience.png" alt="Experience — AI Data Engineer at MonticelloAM; AI Engineer at Clever Profits; Data Engineer, Full-Stack and Quant at Float Infinity; Data Analyst at PASIA; Freelance Full-Stack Developer and Data Analyst" width="100%" /></a>
+<a href="https://1nonly.me/#work"><img src="assets/experience.svg" alt="Experience — AI Data Engineer at MonticelloAM; AI Engineer at Clever Profits; Data Engineer, Full-Stack and Quant at Float Infinity; Data Analyst at PASIA; Freelance Full-Stack Developer and Data Analyst" width="100%" /></a>
 
 <details>
 <summary><b>AI Data Engineer</b> · MonticelloAM, LLC · New York, US · <samp>JUN 2026 – SEP 2026</samp></summary>
@@ -69,15 +69,11 @@
 
 </details>
 
-<br>
+<img src="assets/div-skills.svg" alt="02 · Strongest skills" width="100%" />
 
-#### <samp>STRONGEST SKILLS</samp>
+<a href="https://1nonly.me/skills"><img src="assets/skills.svg" alt="Strongest skills — Data Engineering (Python, Snowflake, dbt, Airflow, PostgreSQL, SQLAlchemy), AI & LLMs (AWS Bedrock, LangChain, PyTorch, Scikit-learn, XGBoost, Ollama), Cloud & DevOps (Azure, Docker, GitHub, Git, Vercel, MLflow), Full-Stack (React, Next.js, TypeScript, FastAPI, Power BI, Tableau), Automation (n8n, Zapier, Power Automate, GitHub Actions, Postman, Selenium)" width="100%" /></a>
 
-<a href="https://1nonly.me/skills"><img src="assets/skills.png" alt="Strongest skills — Data Engineering (Python, Snowflake, dbt, Airflow, PostgreSQL, SQLAlchemy), AI/ML (AWS Bedrock, LangChain, PyTorch, Scikit-learn, XGBoost, Ollama), Cloud (Azure, Docker, GitHub, Git, Vercel, MLflow), Full-Stack (React, Next.js, TypeScript, Power BI, Plotly, Tableau), Automation (n8n, Zapier, Power Automate, GitHub Actions, Postman, Selenium)" width="100%" /></a>
-
-<br>
-
-#### <samp>SELECTED WORK</samp>
+<img src="assets/div-work.svg" alt="03 · Selected work" width="100%" />
 
 | Project | Domain | Summary |
 |:--|:--|:--|
@@ -88,9 +84,7 @@
 | **[QuantMaven](https://github.com/LouisMiguelBernal/QuantMaven)** · [live](https://quantmaven.streamlit.app/) | Market research platform | Research platform for stocks, forex, and crypto — fundamentals, candlestick charting, technical indicators, and algorithmic insights. |
 | **[XGE](https://github.com/LouisMiguelBernal/XGE)** · [live](https://xge-ai.streamlit.app/) | ML · Explainability | End-to-end XGBoost pipeline predicting vehicle CO2 emissions, with SHAP explainability and an interactive dashboard. |
 
-<br>
-
-#### <samp>EDUCATION & LEADERSHIP</samp>
+<img src="assets/div-education.svg" alt="04 · Education & credentials" width="100%" />
 
 | | | |
 |:--|:--|:--|
@@ -98,8 +92,6 @@
 | **Director — Programming & Creatives** | CSIT Program Council, DLSU-D · 2022 – 2025 | Executive Director, Finance & PR |
 
 <br>
-
-#### <samp>CERTIFICATIONS</samp>
 
 | Certification | Issuer | Credential |
 |:--|:--|:--|
@@ -129,6 +121,4 @@
 
 <br>
 
----
-
-<p align="center"><sub><samp>LOUIS MIGUEL BERNAL &nbsp;·&nbsp; NEW YORK · SYDNEY · MANILA &nbsp;·&nbsp; MMXXVI</samp></sub></p>
+<a href="https://1nonly.me"><img src="assets/footer.svg" alt="Built to scale. Run in production. — Louis Miguel Bernal" width="100%" /></a>
